@@ -103,7 +103,7 @@ From the inside:
 
 Main file:
 
-👉 [https://github.com/kuberwastaken/claude-code/blob/main/main.tsx](https://github.com/kuberwastaken/claude-code/blob/main/main.tsx)
+👉 ![MAIN]([https://github.com/kuberwastaken/claude-code/blob/main/main.tsx])
 
 Size:
 
