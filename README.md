@@ -103,7 +103,7 @@ From the inside:
 
 Main file:
 
-👉 ![MAIN](https://github.com/MattimaxForce/claude-code/blob/main/main.tsx)
+👉 [MAIN](https://github.com/MattimaxForce/claude-code/blob/main/main.tsx)
 
 Size:
 
