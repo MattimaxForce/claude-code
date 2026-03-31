@@ -103,7 +103,7 @@ From the inside:
 
 Main file:
 
-👉 ![MAIN]([https://github.com/kuberwastaken/claude-code/blob/main/main.tsx])
+👉 ![MAIN](https://github.com/MattimaxForce/claude-code/blob/main/main.tsx)
 
 Size:
 
@@ -119,12 +119,8 @@ Which tells us:
 
 ## BUDDY — A Hidden Virtual Companion System
 
-There is an entire subsystem called:
-
-👉 **Buddy**
-
 Located here:
-[https://github.com/kuberwastaken/claude-code/tree/main/buddy](https://github.com/kuberwastaken/claude-code/tree/main/buddy)
+[https://github.com/MattimaxForce/claude-code/tree/main/buddy](https://github.com/MattimaxForce/claude-code/tree/main/buddy)
 
 ---
 
@@ -184,18 +180,14 @@ Each Buddy has:
 
 This is not just UI decoration.
 
-👉 It’s an **interactive personality layer** tied to the assistant.
+👉 It’s an **interactive personality layer** tied to the assistant
 
 ---
 
 ## KAIROS — A Proactive Assistant Mode
 
-Hidden mode:
-
-👉 **KAIROS**
-
 Located in:
-[https://github.com/kuberwastaken/claude-code/tree/main/assistant](https://github.com/kuberwastaken/claude-code/tree/main/assistant)
+[https://github.com/MattimaxForce/claude-code/tree/main/assistant](https://github.com/MattimaxForce/claude-code/tree/main/assistant)
 
 ---
 
@@ -279,7 +271,7 @@ This solves a core limitation:
 ## DREAM — Background Memory Consolidation
 
 Directory:
-[https://github.com/kuberwastaken/claude-code/tree/main/services/autoDream](https://github.com/kuberwastaken/claude-code/tree/main/services/autoDream)
+[https://github.com/MattimaxForce/claude-code/tree/main/services/autoDream](https://github.com/MattimaxForce/claude-code/tree/main/services/autoDream)
 
 ---
 
@@ -319,7 +311,7 @@ This introduces:
 ## Undercover Mode
 
 File:
-[https://github.com/kuberwastaken/claude-code/blob/main/utils/undercover.ts](https://github.com/kuberwastaken/claude-code/blob/main/utils/undercover.ts)
+[https://github.com/MattimaxForce/claude-code/blob/main/utils/undercover.ts](https://github.com/MattimaxForce/claude-code/blob/main/utils/undercover.ts)
 
 ---
 
@@ -346,7 +338,7 @@ Confirms:
 ## Multi-Agent System (Coordinator Mode)
 
 Directory:
-[https://github.com/kuberwastaken/claude-code/tree/main/coordinator](https://github.com/kuberwastaken/claude-code/tree/main/coordinator)
+[https://github.com/MattimaxForce/claude-code/tree/main/coordinator](https://github.com/MattimaxForce/claude-code/tree/main/coordinator)
 
 ---
 
@@ -376,7 +368,7 @@ Claude becomes:
 ## System Prompt Architecture
 
 Directory:
-[https://github.com/kuberwastaken/claude-code/tree/main/constants](https://github.com/kuberwastaken/claude-code/tree/main/constants)
+[https://github.com/MattimaxForce/claude-code/tree/main/constants](https://github.com/MattimaxForce/claude-code/tree/main/constants)
 
 ---
 
@@ -402,11 +394,11 @@ Used to force cache invalidation.
 ## Internal API Features (Beta Flags)
 
 File:
-[https://github.com/kuberwastaken/claude-code/blob/main/constants/betas.ts](https://github.com/kuberwastaken/claude-code/blob/main/constants/betas.ts)
+[https://github.com/MattimaxForce/claude-code/blob/main/constants/betas.ts](https://github.com/MattimaxForce/claude-code/blob/main/constants/betas.ts)
 
 ---
 
-Examples:
+### Examples
 
 * 1M token context
 * structured outputs
@@ -425,7 +417,7 @@ Examples:
 ## Tooling System
 
 Directory:
-[https://github.com/kuberwastaken/claude-code/tree/main/tools](https://github.com/kuberwastaken/claude-code/tree/main/tools)
+[https://github.com/MattimaxForce/claude-code/tree/main/tools](https://github.com/MattimaxForce/claude-code/tree/main/tools)
 
 ---
 
@@ -450,7 +442,7 @@ Claude is not just a chatbot.
 ## Security & Permissions
 
 Directory:
-[https://github.com/kuberwastaken/claude-code/tree/main/tools/permissions](https://github.com/kuberwastaken/claude-code/tree/main/tools/permissions)
+[https://github.com/MattimaxForce/claude-code/tree/main/tools/permissions](https://github.com/MattimaxForce/claude-code/tree/main/tools/permissions)
 
 ---
 
@@ -556,7 +548,7 @@ Claude può orchestrare più agenti in parallelo.
 
 ---
 
-### 2. Memoria persistente (“Dream”)
+### 2. Memoria persistente (DREAM)
 
 Claude:
 
@@ -582,7 +574,7 @@ Task complessi → delegati a container remoti.
 
 ---
 
-### 5. Sistema “Buddy”
+### 5. Sistema Buddy
 
 Un assistente con personalità:
 
@@ -604,7 +596,7 @@ Un assistente con personalità:
 
 Questo leak dimostra:
 
-- I sistemi AI moderni sono molto più complessi di quanto sembri
+* I sistemi AI moderni sono molto più complessi di quanto sembri
 
 Il futuro è:
 
@@ -612,6 +604,8 @@ Il futuro è:
 * persistente
 * multi-agente
 
-"Basta un errore banale per esporre tutto"
+> "Basta un errore banale per esporre tutto"
+
 ---
-By MattimaxForce
+
+**By MattimaxForce**
